@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachi46...ram
 - 👀 I’m interested in ARTIFICIAL INTELLIGENCE
 - 🌱 I’m currently learning B.TECH CSE{AI&ML}
-- 💞️ I’m looking to collaborate on projrct
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me github/sachi46
 
 <!---
